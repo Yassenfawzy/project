@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello2
 commit main
+=======
+hello
+>>>>>>> a888d354b767addd8d8459e393a1b53a4421c3ea
